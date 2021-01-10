@@ -1,10 +1,3 @@
-python 82.5%
-JavaScript 5.9%
-Ruby 5.6%
-HTML 5.3%
-CSS 1.4%
-UML 0.18%
-TSQL 0.03%
-Rust 0.09%
+[![badge](https://img.shields.io/badge/build-passing-blue)](https://shiho-aoki.github.io)
 
-(2020-12-15)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shiho-aoki&show_icons=true&count_private=true)
