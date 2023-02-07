@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/github/followers/shiho-aoki?label=Follow&style=social)](https://github.com/shiho-aoki)
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=shiho-aoki&count_private=true&hide=jupyter%20notebook,html,CSS,Makefile&theme=dark#gh-dark-mode-only&langs_count=11)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=shiho-aoki&count_private=true&hide=jupyter%20notebook,html,CSS,Makefile&theme=dark&langs_count=11)
 
 ![as's github stats](https://github-readme-stats.vercel.app/api?username=shiho-aoki&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
 
